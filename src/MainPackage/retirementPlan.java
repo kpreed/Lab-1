@@ -1,7 +1,7 @@
 /*Quentin Dubroff and Kaelan Reed
  * Lab 1
  * 9/14/15
- * This program asks the users for the required inputs and then prints how much money they need saved and how much they
+ * This program asks the users for the required inputs and then prints how much they
  * need to save monthly in order to meet this requirement.
  */
 package MainPackage;
