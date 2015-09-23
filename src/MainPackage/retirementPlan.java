@@ -36,7 +36,6 @@ public class retirementPlan
 		
 		System.out.printf("You need to save $%.2f", PMT);
 		System.out.printf(" a month for retirement");
-		
 	}
 
 }
